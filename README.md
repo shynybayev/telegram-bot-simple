@@ -1,2 +1,2 @@
 # telegram-bot-surgebook
-Telegram bot to extract copyright works (poetry and poem) from https://www.surgebook.com/
+Telegram bot to parse works (poetry and poem) from https://www.surgebook.com/
